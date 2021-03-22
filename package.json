@@ -1,0 +1,14 @@
+{
+  "name": "webservermongodb",
+  "version": "1.0.0",
+  "description": "Candy web server with mongo db",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "candy"
+  ],
+  "author": "Candy",
+  "license": "ISC"
+}
